@@ -2,7 +2,7 @@
 
 | Image | Details |
 |:-----:|:--------|
-| ![Icon](https://cdn.rusthelp.com/images/256/aiming.module.mlrs.png) | **MLRS Aiming Module**<br>**Shortname:** `aiming.module.mlrs`<br>**Stack Size:** 1<br>**Rarity:** None<br>**ID:** 343045591 |
+| ![Icon](https://cdn.rusthelp.com/images/256/aiming-module-mlrs.png) | **MLRS Aiming Module**<br>**Shortname:** `aiming.module.mlrs`<br>**Stack Size:** 1<br>**Rarity:** None<br>**ID:** 343045591 |
 | ![Icon](https://cdn.rusthelp.com/images/256/bleach.png) | **Bleach**<br>**Shortname:** `bleach`<br>**Stack Size:** 20<br>**Rarity:** Uncommon<br>**ID:** 1553078977 |
 | ![Icon](https://cdn.rusthelp.com/images/256/ducttape.png) | **Duct Tape**<br>**Shortname:** `ducttape`<br>**Stack Size:** 20<br>**Rarity:** Uncommon<br>**ID:** 1401987718 |
 | ![Icon](https://cdn.rusthelp.com/images/256/carburetor1.png) | **Low Quality Carburetor**<br>**Shortname:** `carburetor1`<br>**Stack Size:** 5<br>**Rarity:** Common<br>**ID:** 656371028 |
@@ -37,22 +37,22 @@
 | ![Icon](https://cdn.rusthelp.com/images/256/riflebody.png) | **Rifle Body**<br>**Shortname:** `riflebody`<br>**Stack Size:** 10<br>**Rarity:** VeryRare<br>**ID:** 176787552 |
 | ![Icon](https://cdn.rusthelp.com/images/256/semibody.png) | **Semi Automatic Body**<br>**Shortname:** `semibody`<br>**Stack Size:** 10<br>**Rarity:** Rare<br>**ID:** 573926264 |
 | ![Icon](https://cdn.rusthelp.com/images/256/smgbody.png) | **SMG Body**<br>**Shortname:** `smgbody`<br>**Stack Size:** 10<br>**Rarity:** Rare<br>**ID:** 1230323789 |
-| ![Icon](https://cdn.rusthelp.com/images/256/vehicle.chassis.2mod.png) | **Small Chassis**<br>**Shortname:** `vehicle.chassis.2mod`<br>**Stack Size:** 1<br>**Rarity:** None<br>**ID:** -44066600 |
-| ![Icon](https://cdn.rusthelp.com/images/256/vehicle.chassis.3mod.png) | **Medium Chassis**<br>**Shortname:** `vehicle.chassis.3mod`<br>**Stack Size:** 1<br>**Rarity:** None<br>**ID:** -44066823 |
-| ![Icon](https://cdn.rusthelp.com/images/256/vehicle.chassis.4mod.png) | **Large Chassis**<br>**Shortname:** `vehicle.chassis.4mod`<br>**Stack Size:** 1<br>**Rarity:** None<br>**ID:** -44066790 |
-| ![Icon](https://cdn.rusthelp.com/images/256/vehicle.chassis.png) | **Generic vehicle chassis**<br>**Shortname:** `vehicle.chassis`<br>**Stack Size:** 1<br>**Rarity:** None<br>**ID:** 1770744540 |
-| ![Icon](https://cdn.rusthelp.com/images/256/vehicle.1mod.cockpit.png) | **Cockpit Vehicle Module**<br>**Shortname:** `vehicle.1mod.cockpit`<br>**Stack Size:** 1<br>**Rarity:** Rare<br>**ID:** -1501451746 |
-| ![Icon](https://cdn.rusthelp.com/images/256/vehicle.1mod.cockpit.armored.png) | **Armored Cockpit Vehicle Module**<br>**Shortname:** `vehicle.1mod.cockpit.armored`<br>**Stack Size:** 1<br>**Rarity:** Rare<br>**ID:** 1874610722 |
-| ![Icon](https://cdn.rusthelp.com/images/256/vehicle.1mod.cockpit.with.engine.png) | **Cockpit With Engine Vehicle Module**<br>**Shortname:** `vehicle.1mod.cockpit.with.engine`<br>**Stack Size:** 1<br>**Rarity:** Rare<br>**ID:** 170758448 |
-| ![Icon](https://cdn.rusthelp.com/images/256/vehicle.1mod.engine.png) | **Engine Vehicle Module**<br>**Shortname:** `vehicle.1mod.engine`<br>**Stack Size:** 1<br>**Rarity:** Rare<br>**ID:** 1559779253 |
-| ![Icon](https://cdn.rusthelp.com/images/256/vehicle.1mod.flatbed.png) | **Flatbed Vehicle Module**<br>**Shortname:** `vehicle.1mod.flatbed`<br>**Stack Size:** 1<br>**Rarity:** Rare<br>**ID:** -1880231361 |
-| ![Icon](https://cdn.rusthelp.com/images/256/vehicle.1mod.passengers.armored.png) | **Armored Passenger Vehicle Module**<br>**Shortname:** `vehicle.1mod.passengers.armored`<br>**Stack Size:** 1<br>**Rarity:** Rare<br>**ID:** -1615281216 |
-| ![Icon](https://cdn.rusthelp.com/images/256/vehicle.1mod.rear.seats.png) | **Rear Seats Vehicle Module**<br>**Shortname:** `vehicle.1mod.rear.seats`<br>**Stack Size:** 1<br>**Rarity:** Rare<br>**ID:** 1376065505 |
-| ![Icon](https://cdn.rusthelp.com/images/256/vehicle.1mod.storage.png) | **Storage Vehicle Module**<br>**Shortname:** `vehicle.1mod.storage`<br>**Stack Size:** 1<br>**Rarity:** Rare<br>**ID:** 268565518 |
-| ![Icon](https://cdn.rusthelp.com/images/256/vehicle.1mod.taxi.png) | **Taxi Vehicle Module**<br>**Shortname:** `vehicle.1mod.taxi`<br>**Stack Size:** 1<br>**Rarity:** Rare<br>**ID:** -626174997 |
-| ![Icon](https://cdn.rusthelp.com/images/256/vehicle.2mod.camper.png) | **Camper Vehicle Module**<br>**Shortname:** `vehicle.2mod.camper`<br>**Stack Size:** 1<br>**Rarity:** Rare<br>**ID:** -1040518150 |
-| ![Icon](https://cdn.rusthelp.com/images/256/vehicle.2mod.flatbed.png) | **Large Flatbed Vehicle Module**<br>**Shortname:** `vehicle.2mod.flatbed`<br>**Stack Size:** 1<br>**Rarity:** Rare<br>**ID:** -1693832478 |
-| ![Icon](https://cdn.rusthelp.com/images/256/vehicle.2mod.fuel.tank.png) | **Fuel Tank Vehicle Module**<br>**Shortname:** `vehicle.2mod.fuel.tank`<br>**Stack Size:** 1<br>**Rarity:** Rare<br>**ID:** 1186655046 |
-| ![Icon](https://cdn.rusthelp.com/images/256/vehicle.2mod.passengers.png) | **Passenger Vehicle Module**<br>**Shortname:** `vehicle.2mod.passengers`<br>**Stack Size:** 1<br>**Rarity:** Rare<br>**ID:** 895374329 |
-| ![Icon](https://cdn.rusthelp.com/images/256/vehicle.module.png) | **Generic vehicle module**<br>**Shortname:** `vehicle.module`<br>**Stack Size:** 1<br>**Rarity:** Rare<br>**ID:** 878301596 |
-| ![Icon](https://cdn.rusthelp.com/images/256/weapon.mod.burstmodule.png) | **Burst Module**<br>**Shortname:** `weapon.mod.burstmodule`<br>**Stack Size:** 1<br>**Rarity:** Rare<br>**ID:** 838308300 |
+| ![Icon](https://cdn.rusthelp.com/images/256/vehicle-chassis-2mod.png) | **Small Chassis**<br>**Shortname:** `vehicle.chassis.2mod`<br>**Stack Size:** 1<br>**Rarity:** None<br>**ID:** -44066600 |
+| ![Icon](https://cdn.rusthelp.com/images/256/vehicle-chassis-3mod.png) | **Medium Chassis**<br>**Shortname:** `vehicle.chassis.3mod`<br>**Stack Size:** 1<br>**Rarity:** None<br>**ID:** -44066823 |
+| ![Icon](https://cdn.rusthelp.com/images/256/vehicle-chassis-4mod.png) | **Large Chassis**<br>**Shortname:** `vehicle.chassis.4mod`<br>**Stack Size:** 1<br>**Rarity:** None<br>**ID:** -44066790 |
+| ![Icon](https://cdn.rusthelp.com/images/256/vehicle-chassis.png) | **Generic vehicle chassis**<br>**Shortname:** `vehicle.chassis`<br>**Stack Size:** 1<br>**Rarity:** None<br>**ID:** 1770744540 |
+| ![Icon](https://cdn.rusthelp.com/images/256/vehicle-1mod-cockpit.png) | **Cockpit Vehicle Module**<br>**Shortname:** `vehicle.1mod.cockpit`<br>**Stack Size:** 1<br>**Rarity:** Rare<br>**ID:** -1501451746 |
+| ![Icon](https://cdn.rusthelp.com/images/256/vehicle-1mod-cockpit-armored.png) | **Armored Cockpit Vehicle Module**<br>**Shortname:** `vehicle.1mod.cockpit.armored`<br>**Stack Size:** 1<br>**Rarity:** Rare<br>**ID:** 1874610722 |
+| ![Icon](https://cdn.rusthelp.com/images/256/vehicle-1mod-cockpit-with-engine.png) | **Cockpit With Engine Vehicle Module**<br>**Shortname:** `vehicle.1mod.cockpit.with.engine`<br>**Stack Size:** 1<br>**Rarity:** Rare<br>**ID:** 170758448 |
+| ![Icon](https://cdn.rusthelp.com/images/256/vehicle-1mod-engine.png) | **Engine Vehicle Module**<br>**Shortname:** `vehicle.1mod.engine`<br>**Stack Size:** 1<br>**Rarity:** Rare<br>**ID:** 1559779253 |
+| ![Icon](https://cdn.rusthelp.com/images/256/vehicle-1mod-flatbed.png) | **Flatbed Vehicle Module**<br>**Shortname:** `vehicle.1mod.flatbed`<br>**Stack Size:** 1<br>**Rarity:** Rare<br>**ID:** -1880231361 |
+| ![Icon](https://cdn.rusthelp.com/images/256/vehicle-1mod-passengers-armored.png) | **Armored Passenger Vehicle Module**<br>**Shortname:** `vehicle.1mod.passengers.armored`<br>**Stack Size:** 1<br>**Rarity:** Rare<br>**ID:** -1615281216 |
+| ![Icon](https://cdn.rusthelp.com/images/256/vehicle-1mod-rear-seats.png) | **Rear Seats Vehicle Module**<br>**Shortname:** `vehicle.1mod.rear.seats`<br>**Stack Size:** 1<br>**Rarity:** Rare<br>**ID:** 1376065505 |
+| ![Icon](https://cdn.rusthelp.com/images/256/vehicle-1mod-storage.png) | **Storage Vehicle Module**<br>**Shortname:** `vehicle.1mod.storage`<br>**Stack Size:** 1<br>**Rarity:** Rare<br>**ID:** 268565518 |
+| ![Icon](https://cdn.rusthelp.com/images/256/vehicle-1mod-taxi.png) | **Taxi Vehicle Module**<br>**Shortname:** `vehicle.1mod.taxi`<br>**Stack Size:** 1<br>**Rarity:** Rare<br>**ID:** -626174997 |
+| ![Icon](https://cdn.rusthelp.com/images/256/vehicle-2mod-camper.png) | **Camper Vehicle Module**<br>**Shortname:** `vehicle.2mod.camper`<br>**Stack Size:** 1<br>**Rarity:** Rare<br>**ID:** -1040518150 |
+| ![Icon](https://cdn.rusthelp.com/images/256/vehicle-2mod-flatbed.png) | **Large Flatbed Vehicle Module**<br>**Shortname:** `vehicle.2mod.flatbed`<br>**Stack Size:** 1<br>**Rarity:** Rare<br>**ID:** -1693832478 |
+| ![Icon](https://cdn.rusthelp.com/images/256/vehicle-2mod-fuel-tank.png) | **Fuel Tank Vehicle Module**<br>**Shortname:** `vehicle.2mod.fuel.tank`<br>**Stack Size:** 1<br>**Rarity:** Rare<br>**ID:** 1186655046 |
+| ![Icon](https://cdn.rusthelp.com/images/256/vehicle-2mod-passengers.png) | **Passenger Vehicle Module**<br>**Shortname:** `vehicle.2mod.passengers`<br>**Stack Size:** 1<br>**Rarity:** Rare<br>**ID:** 895374329 |
+| ![Icon](https://cdn.rusthelp.com/images/256/vehicle-module.png) | **Generic vehicle module**<br>**Shortname:** `vehicle.module`<br>**Stack Size:** 1<br>**Rarity:** Rare<br>**ID:** 878301596 |
+| ![Icon](https://cdn.rusthelp.com/images/256/weapon-mod-burstmodule.png) | **Burst Module**<br>**Shortname:** `weapon.mod.burstmodule`<br>**Stack Size:** 1<br>**Rarity:** Rare<br>**ID:** 838308300 |
