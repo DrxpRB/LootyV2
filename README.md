@@ -38,9 +38,4 @@ Want to help expand or refine the item list? Contributions are welcome!
 ## License  
 This project is open-source and available under the [MIT License](LICENSE).
 
-## Credits  
-Maintained by **DrxpRB** and contributors. Special thanks to the Rust community for providing data and feedback.
-
 ---
-
-🌐 *Stay updated with Rust developments and modding resources!* 🚀
